@@ -13,3 +13,5 @@ How to Play
 -The game continues until you get one wrong
 
  this must be typed into the terminal: python project.py cards.txt
+
+ i used ai to help me with the idea of what i should create
